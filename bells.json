@@ -1,0 +1,17 @@
+[
+    [26880, 2, [true, true, true, true, true, false, false]],
+    [27000, 0.5, [true, true, true, true, true, false, false]],
+    [28200, 0.5, [true, true, true, true, false, false, false]],
+    [30600, 0.5, [true, true, true, true, true, false, false]],
+    [33000, 1, [true, true, true, true, true, false, false]],
+    [34080, 2, [true, true, true, true, true, false, false]],
+    [34200, 0.5, [true, true, true, true, true, false, false]],
+    [36600, 0.5, [true, true, true, true, true, false, false]],
+    [39000, 0.5, [true, true, true, true, true, false, false]],
+    [41400, 1, [true, true, true, true, true, false, false]],
+    [42180, 2, [true, true, true, true, true, false, false]],
+    [42300, 0.5, [true, true, true, true, true, false, false]],
+    [44400, 0.5, [true, true, true, true, true, false, false]],
+    [46500, 0.5, [true, true, true, true, true, false, false]],
+    [46800, 2, [true, true, true, true, true, false, false]]
+]
