@@ -9,7 +9,7 @@ import time, datetime, json
 with open('bells.json', 'r') as f:
     bells = json.loads(f.read())
 
-# Switches the relay on for 'seconds'
+# Switch the relay on for 'seconds'
 def ring(seconds):
     #GPIO.output(18,GPIO.HIGH)
     print("High")
@@ -26,7 +26,7 @@ def get_seconds():
         )
     return seconds
 
-# Returns weekday as an integer. (Mon == 0 - Sun == 6)
+# Return weekday as an integer. (Mon == 0 - Sun == 6)
 def get_day():
     day = datetime.date.today().weekday()
     return day
